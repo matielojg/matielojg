@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando no PTI - Parque tecnológico de Itaipu
 - 🌱 Estudando sobre microserviços com Apache Kafka e consultas Avançadas JPA no Spring
 - 📫 Contate-me no email: matielojg@gmail.com
-- 😄 Pronomes: ele/dele
+- :man: Pronomes: ele/dele
 
 ##
 
