@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matielo 👋
 
 - 🔭 Atualmente trabalhando no PTI - Parque tecnológico de Itaipu
-- 🌱 Estudando sobre microserviços com Apache Kafka e consultas Avançadas JPA no Spring
+- 🌱 Estudando sobre microserviços com Apache Kafka
 - 📫 Contate-me no email: matielojg@gmail.com
 - :man: Pronomes: ele/dele
 
