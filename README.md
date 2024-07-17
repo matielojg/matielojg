@@ -1,14 +1,10 @@
 ### Olá! Eu sou o Matielo 👋
 
 - 🔭 Atualmente trabalhando no PTI - Parque tecnológico de Itaipu
-- 🌱 Estudando sobre microserviços com Apache Kafka
+- 🌱 Constantemente aprimorando meus conhecimentos em microsserviços com Spring Cloud 3+ e práticas DevOps
 - 📫 Contate-me no email: matielojg@gmail.com
-- :man: Pronomes: ele/dele
 
 ##
-
-![Matielo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matielojg&show_icons=true&theme=github_dark&)
-<div style="display: inline_block">
 
 ## Back
 
@@ -27,7 +23,7 @@
 ## DevOps
 
   <img align="center" alt="Mati-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-   <img align="center" alt="Mati-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+   <img align="center" alt="Mati-Amazon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
    <img align="center" alt="Mati-Apachekafka" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
    
 ## Design
